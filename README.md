@@ -1,4 +1,4 @@
-## Important: This is the sample code for the deprecated kooaba platform V1.X. For the current doc (v4, subscription at platform.kooaba.com), see [this](http://kooaba.github.com)
+## Important: This is the doc and sample code for the deprecated kooaba platform V1.X. For the current doc (v4, subscription at platform.kooaba.com), see [this](http://kooaba.github.com)
 
 # kooaba Web Services
 
