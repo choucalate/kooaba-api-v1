@@ -6,7 +6,9 @@ The kooaba Web Services offer access to [kooaba](http://www.kooaba.com)'s image 
 
 ## Obtaining API access
 
-Access to the API can be obtained via [http://www.kooaba.com/en/developers/query_api](http://www.kooaba.com/en/developers/query_api).
+Note: this version (v1 and and v2-beta) of the API is deprecated.
+
+You can sign up to the latest version (v 4.x) under [http://www.kooaba.com/en/plans_and_pricing](http://www.kooaba.com/en/plans_and_pricing). The documentation for v4 can be found under [http://docs.kooaba.com/](http://docs.kooaba.com/).
 
 
 ## Using the API
